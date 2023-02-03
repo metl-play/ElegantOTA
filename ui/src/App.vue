@@ -248,7 +248,7 @@ export default {
 </script>
 
 <style lang="scss">
-$primary-color: #488EFF;
+$primary-color: #b01af0;
 // Variables and mixins
 @import "~spectre.css/src/variables";
 @import "~spectre.css/src/mixins";
